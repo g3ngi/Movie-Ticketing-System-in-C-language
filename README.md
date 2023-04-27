@@ -10,3 +10,8 @@ This is my group final project, we made movie ticketing system that implements t
 - Search Movies
 - Search Food and Bevarages
 
+## Files
+- main.c = Main code of this project
+- menu.txt = main menu ASCII art
+- movielist.txt = list of movies saved in txt file
+- viewfoodlist.txt = list of foods saved in txt file
